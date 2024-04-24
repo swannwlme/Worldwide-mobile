@@ -1,4 +1,4 @@
-# worldwide
+# Worldwide App
 
 Save all the countries in the world you have visited and see the percentage of the world you have visited.
 
